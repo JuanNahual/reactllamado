@@ -1,4 +1,4 @@
-
+https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
         const authUrl = 'https://apibackend-production-1cd4.up.railway.app/productos/token/';
         const dataUrl = 'https://apibackend-production-1cd4.up.railway.app/productos/productos/';
 
